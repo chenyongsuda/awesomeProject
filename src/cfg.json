@@ -1,0 +1,9 @@
+{
+  "debug": true,
+  "server": "127.0.0.1:1234",
+  "interval": 2000,
+  "http": {
+    "enabled": true,
+    "port": ":2345"
+  }
+}
